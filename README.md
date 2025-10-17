@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![无双猫](https://raw.githubusercontent.com/yhgszi/WushuangCat-Release/main/.github/assets/icon.png)
+<img src="https://raw.githubusercontent.com/yhgszi/WushuangCat-Release/main/.github/assets/icon.png" width="150" alt="无双猫图标">
 
 **一只可爱的智能桌面宠物，陪伴你的工作与学习**
 
@@ -71,7 +71,7 @@
 
 ### 🐱 主界面
 
-<img src=".github/assets/hero.webp" width="600" alt="无双猫主界面">
+<img src=".github/assets/hero.webp" width="500" alt="无双猫主界面">
 
 ---
 
