@@ -50,7 +50,7 @@
 
 <div align="center">
 
-### [⬇️ 点击下载无双猫 v0.0.6](https://github.com/yhgszi/WushuangCat-Release/releases/download/v0.0.6/无双猫V0.0.6.dmg)
+### [⬇️ 点击下载无双猫 v0.0.6](https://github.com/yhgszi/WushuangCat-Release/releases/download/v0.0.6/WushuangCat-v0.0.6.dmg)
 
 </div>
 
@@ -67,23 +67,64 @@
 
 ## 🎯 功能展示
 
-### 智能提醒
-定时提醒你休息、喝水、运动，只因关心你的健康。提醒会在几秒后自动消失，不打扰工作。
+<div align="center">
 
-### 精准闹钟
-支持工作、会议、吃药等多种场景闹钟。闹钟弹窗显示在屏幕右上角，确保重要事项不错过。
+### 🐱 主界面
 
-### 趣味互动
-多种可爱动作和表情，支持拖拽、点击互动，让你的 Mac 桌面充满生机和乐趣。
+<img src=".github/assets/hero.webp" width="600" alt="无双猫主界面">
 
-### 漂流瓶社交
-扔出你的心情，捡起别人的故事。与全球用户匿名分享趣味内容，探索未知的惊喜。
+---
 
-### 好友私信
-添加好友，实时聊天。让桌面宠物成为你乐趣的窗口。
+### ⏰ 智能提醒与精准闹钟
 
-### 撒豆成兵
-一键召唤多只猫猫到桌面，瞬间让你的屏幕充满生机。支持自定义数量和持续时间，趣味十足。
+<table>
+  <tr>
+    <td width="50%">
+      <img src=".github/assets/feature-reminder.webp" alt="智能提醒">
+      <p align="center"><b>智能提醒</b><br>定时提醒休息、喝水、运动</p>
+    </td>
+    <td width="50%">
+      <img src=".github/assets/feature-alarm.webp" alt="精准闹钟">
+      <p align="center"><b>精准闹钟</b><br>支持多种场景，重要事项不错过</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎮 趣味互动
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src=".github/assets/feature-animation.webp" alt="趣味互动">
+      <p align="center"><b>趣味互动</b><br>可爱动作和表情，支持拖拽点击</p>
+    </td>
+    <td width="50%">
+      <img src=".github/assets/feature-sadoushengbing.webp" alt="撒豆成兵">
+      <p align="center"><b>撒豆成兵</b><br>一键召唤多只猫猫到桌面</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💬 社交功能
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src=".github/assets/feature-bottle.webp" alt="漂流瓶">
+      <p align="center"><b>漂流瓶社交</b><br>扔出心情，捡起别人的故事</p>
+    </td>
+    <td width="50%">
+      <img src=".github/assets/feature-multi.webp" alt="好友私信">
+      <p align="center"><b>好友私信</b><br>添加好友，实时聊天</p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
